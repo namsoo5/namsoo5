@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### iOS Dev 김남수
 
 <!--
 **namsoo5/namsoo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamsoo5)](https://hits.seeyoufarm.com)
+
+[프로필📋](https://github.com/namsoo5/Profile)
+
+[블로그](https://nsios.tistory.com)
