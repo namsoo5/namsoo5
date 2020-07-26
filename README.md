@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [프로필📋](https://github.com/namsoo5/Profile)
 
-블로그 - [티스토리](https://nsios.tistory.com)
+이메일✉️ - are34@naver.com
+
+블로그✏️ - [티스토리](https://nsios.tistory.com)
