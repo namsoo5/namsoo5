@@ -23,3 +23,13 @@ Here are some ideas to get you started:
 이메일✉️ - are34@naver.com
 
 블로그✏️ - [티스토리](https://nsios.tistory.com)
+
+
+WiTH - [앱스토어링크](https://apps.apple.com/app/id1510519818)
+여행 동행 서비스
+
+위드살롱 - [앱스토어링크](https://apps.apple.com/app/id1522234917)
+사람들과 비일상적인 대화를 할 수 있는 서비스
+
+큐링 - [앱스토어링크](https://apps.apple.com/app/id1523625666)
+QR코드로 모임을 편리하게 관리할 수 있는 서비스
