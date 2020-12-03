@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 블로그✏️ - [티스토리](https://nsios.tistory.com)
 
 <details markdown="1">
-<summary>배포한 앱</summary>
+<summary>(클릭해서 열어보기) 배포한 앱</summary>
 </br>
 
 위드메이트 - [앱스토어링크](https://apps.apple.com/app/id1510519818)<br>
