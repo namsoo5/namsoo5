@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 블로그✏️ - [티스토리](https://nsios.tistory.com)
 
+<details markdown="1">
+<summary>배포한 앱</summary>
+</br>
 
 위드메이트 - [앱스토어링크](https://apps.apple.com/app/id1510519818)<br>
 여행 동행 매칭 서비스✈️
@@ -39,3 +42,5 @@ QR코드로 모임을 편리하게 관리할 수 있는 서비스🐬
 
 유니뷰 - [앱스토어링크](https://apps.apple.com/app/id1534315470)<br>
 대학교 공지사항을 한눈에 볼 수 있고 알림과 저장이 가능한 서비스📩
+
+</details>
