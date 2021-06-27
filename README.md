@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <details markdown="1">
 <summary>(클릭해서 열어보기) 배포한 앱</summary>
 </br>
+
 속닥속닥 - [앱스토어링크](https://apps.apple.com/app/id1557251130)<br>
 음성 롤링페이퍼 앱💌
 
