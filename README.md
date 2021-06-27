@@ -27,20 +27,22 @@ Here are some ideas to get you started:
 <details markdown="1">
 <summary>(클릭해서 열어보기) 배포한 앱</summary>
 </br>
+속닥속닥 - [앱스토어링크](https://apps.apple.com/app/id1557251130)<br>
+음성 롤링페이퍼 앱💌
+
+유니뷰 - [앱스토어링크](https://apps.apple.com/app/id1534315470)<br>
+대학교 공지사항을 한눈에 볼 수 있고 알림과 저장이 가능한 서비스📩
+
+프루틴 - [앱스토어링크](https://apps.apple.com/app/id1527993626)<br>
+간편한 루틴관리 앱☑️
+
+큐링 - [앱스토어링크](https://apps.apple.com/app/id1523625666)<br>
+QR코드로 모임을 편리하게 관리할 수 있는 서비스🐬
 
 위드메이트 - [앱스토어링크](https://apps.apple.com/app/id1510519818)<br>
 여행 동행 매칭 서비스✈️
 
 위드살롱 - [앱스토어링크](https://apps.apple.com/app/id1522234917)<br>
 사람들과 비일상적인 대화를 할 수 있는 서비스☕️
-
-큐링 - [앱스토어링크](https://apps.apple.com/app/id1523625666)<br>
-QR코드로 모임을 편리하게 관리할 수 있는 서비스🐬
-
-프루틴 - [앱스토어링크](https://apps.apple.com/app/id1527993626)<br>
-간편한 루틴관리 앱☑️
-
-유니뷰 - [앱스토어링크](https://apps.apple.com/app/id1534315470)<br>
-대학교 공지사항을 한눈에 볼 수 있고 알림과 저장이 가능한 서비스📩
 
 </details>
