@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <details markdown="1">
 <summary>(클릭해서 열어보기) 배포한 앱</summary>
 </br>
+나들길 - [앱스토어링크](https://apps.apple.com/kr/app/1597551021)<br>
+내가 좋아하는 길을 공유하고 다른 사람들이 걸었던 길을 찾아볼 수 있는 서비스👣
 
 속닥속닥 - [앱스토어링크](https://apps.apple.com/app/id1557251130)<br>
 음성 롤링페이퍼 앱💌
